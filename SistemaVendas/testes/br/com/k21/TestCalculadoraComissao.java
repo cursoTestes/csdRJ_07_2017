@@ -49,6 +49,7 @@ public class TestCalculadoraComissao {
 		double comissaoCalculada = calculadora.calcular(valorVenda);
 		
 		assertEquals(comissaoEsperada, comissaoCalculada, 0);
+		assertEquals(1, 2);
 	}
 }
 
