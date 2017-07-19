@@ -1,0 +1,97 @@
+﻿VS filter: testpath:TestAssembly:BddVendasCSharp/Feature:Custo+final+por+trabalhador/Scenario:Criar+um+trabalhador+que+recebe+um+salario+minimo | testpath:TestAssembly:BddVendasCSharp/Feature:Custo+final+por+trabalhador/Scenario:Criar+trabalhadores+com+categoria+a.%2c+b%2c+c%2c+dehgdhbvdshs%2c+%7c+salario_bruto+%7c+vale_transporte%7c+custo_final+%7c%2c+121122
+Discovering target: Default
+Discovering tests from assembly: C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll
+Appdomain Disposed
+Test Suite Dump
+#0: BddVendasCSharp/Default - 
+#1: Default - 
+#2: BddVendasCSharp - 
+#9: Custo final por trabalhador - 
+#10: Criar um trabalhador que recebe um salario minimo - TestAssembly:BddVendasCSharp/Feature:Custo+final+por+trabalhador/Scenario:Criar+um+trabalhador+que+recebe+um+salario+minimo
+#11: Criar trabalhadores com categoria a., b, c, dehgdhbvdshs, | salario_bruto | vale_transporte| custo_final |, 121122 - TestAssembly:BddVendasCSharp/Feature:Custo+final+por+trabalhador/Scenario:Criar+trabalhadores+com+categoria+a.%2c+b%2c+c%2c+dehgdhbvdshs%2c+%7c+salario_bruto+%7c+vale_transporte%7c+custo_final+%7c%2c+121122
+End: Test Suite Dump -- X
+Scheduler: considering #10 for thread #0
+Scheduler: using #10 for thread #0
+Test #10 is scheduled for thread #0
+Thread #0: creating new test thread executor for BddVendasCSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\cfc\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.3.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Test #10/0 is started on thread #0
+B:Dado que eu estou na pagina da calculadora
+T:done: CalculadoraTrabalhistaSteps.DadoQueEuEstouNaPaginaDaCalculadora() (0,0s)
+B:E preenchi o campo salario bruto com '937,00'
+T:done: CalculadoraTrabalhistaSteps.DadoPreenchiOCampoSalarioBrutoCom(937,00) (0,0s)
+B:E preenchi o campo vale transporte com '450,00'
+T:done: CalculadoraTrabalhistaSteps.DadoPreenchiOCampoValeTransporteCom(450,00) (0,0s)
+B:E preenchi o campo vale refeicao com '350,00'
+T:done: CalculadoraTrabalhistaSteps.DadoPreenchiOCampoValeRefeicaoCom(350,00) (0,0s)
+B:E preenchi o campo plano de saude com '200,00'
+T:done: CalculadoraTrabalhistaSteps.DadoPreenchiOCampoPlanoDeSaudeCom(200,00) (0,0s)
+B:Quando eu clicar no botao calcular
+T:pending: CalculadoraTrabalhistaSteps.QuandoEuClicarNoBotaoCalcular()
+B:Entao deve ser exibido o custo final de '2376,35'
+T:skipped because of previous errors
+T:Pending: One or more step definitions are not implemented yet.
+T:  CalculadoraTrabalhistaSteps.QuandoEuClicarNoBotaoCalcular()
+Scheduler: considering #11 for thread #0
+Scheduler: using #11 for thread #0
+Test #11 is scheduled for thread #0
+Test #10 is finished on thread #0 as Pending within 3,6976322 seconds
+Test #11/0 is started on thread #0
+B:Dado que eu estou na pagina da calculadora
+T:done: CalculadoraTrabalhistaSteps.DadoQueEuEstouNaPaginaDaCalculadora() (0,0s)
+B:E preenchi o campo salario bruto com <salario_bruto>
+T:No matching step definition found for the step. Use the following code to create one:
+T:        [Given(@"preenchi o campo salario bruto com (.*)")]
+T:public void DadoPreenchiOCampoSalarioBrutoCom(string p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+B:E preenchi o campo vale transporte com <vale_transporte>
+T:No matching step definition found for the step. Use the following code to create one:
+T:        [Given(@"preenchi o campo vale transporte com (.*)")]
+T:public void DadoPreenchiOCampoValeTransporteCom(string p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+B:Quando eu clicar no botao calcular
+T:skipped because of previous errors
+B:Entao deve ser exibido o custo final de <custo_final>
+T:No matching step definition found for the step. Use the following code to create one:
+T:        [Then(@"deve ser exibido o custo final de (.*)")]
+T:public void EntaoDeveSerExibidoOCustoFinalDe(string p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:Pending: No matching step definition found for one or more steps.
+T:using System;
+T:using TechTalk.SpecFlow;
+T:namespace MyNamespace
+T:{
+T:    [Binding]
+T:    public class StepDefinitions
+T:    {
+T:        [Given(@"preenchi o campo salario bruto com (.*)")]
+T:public void DadoPreenchiOCampoSalarioBrutoCom(string p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:        [Given(@"preenchi o campo vale transporte com (.*)")]
+T:public void DadoPreenchiOCampoValeTransporteCom(string p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:        [Then(@"deve ser exibido o custo final de (.*)")]
+T:public void EntaoDeveSerExibidoOCustoFinalDe(string p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:    }
+T:}
+Test #11 is finished on thread #0 as Pending within 3,1982766 seconds
+Appdomain Disposed
+Total: 2
+Succeeded: 0
+Ignored: 0
+Pending: 2
+Skipped: 0
+Failed: 0

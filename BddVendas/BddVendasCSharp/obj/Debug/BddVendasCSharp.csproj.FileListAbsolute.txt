@@ -1,0 +1,83 @@
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\xunit.execution.desktop.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\Default.srprofile
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll.config
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.pdb
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\Ionic.Zip.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\Newtonsoft.Json.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\nunit.framework.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\SpecRun.SpecFlowPlugin.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\TechTalk.SpecFlow.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\TechTalk.SpecRun.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.Support.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\xunit.abstractions.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\xunit.assert.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\xunit.core.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\nunit.framework.xml
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\SpecRun.SpecFlowPlugin.pdb
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.xml
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.Support.xml
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\xunit.abstractions.xml
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\xunit.assert.pdb
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\xunit.assert.xml
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\xunit.core.pdb
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\xunit.core.xml
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\obj\Debug\BddVendasCSharp.dll
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\obj\Debug\BddVendasCSharp.pdb
+c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\obj\Debug\BddVendasCSharp.csprojResolveAssemblyReference.cache
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\xunit.execution.desktop.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\Default.srprofile
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll.config
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.pdb
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\Ionic.Zip.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\Newtonsoft.Json.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\nunit.framework.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\TechTalk.SpecFlow.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\TechTalk.SpecRun.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.Support.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\xunit.abstractions.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\xunit.assert.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\xunit.core.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\nunit.framework.xml
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\SpecRun.SpecFlowPlugin.pdb
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.xml
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.Support.xml
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\xunit.abstractions.xml
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\xunit.assert.pdb
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\xunit.assert.xml
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\xunit.core.pdb
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\xunit.core.xml
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\obj\Debug\BddVendasCSharp.csprojResolveAssemblyReference.cache
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\obj\Debug\BddVendasCSharp.dll
+C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\obj\Debug\BddVendasCSharp.pdb
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\xunit.execution.desktop.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\Default.srprofile
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll.config
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.pdb
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\Ionic.Zip.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\Newtonsoft.Json.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\nunit.framework.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\TechTalk.SpecFlow.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\TechTalk.SpecRun.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.Support.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\xunit.abstractions.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\xunit.assert.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\xunit.core.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\nunit.framework.xml
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\SpecRun.SpecFlowPlugin.pdb
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.xml
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\WebDriver.Support.xml
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\xunit.abstractions.xml
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\xunit.assert.pdb
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\xunit.assert.xml
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\xunit.core.pdb
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\xunit.core.xml
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\obj\Debug\BddVendasCSharp.dll
+C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\obj\Debug\BddVendasCSharp.pdb

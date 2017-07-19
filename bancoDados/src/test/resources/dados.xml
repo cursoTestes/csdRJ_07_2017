@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<dataset>
+
+	<vendedor id="1" nome="John Doe" />
+	<vendedor id="2" nome="Felippe" />
+	<vendedor id="3" nome="Rodrigo" />
+	<vendedor id="5" nome="Magno" />
+	<vendedor id="6" nome="Arlindo Cruz" />
+	<vendedor id="7" nome="Toledo" />
+
+
+	<venda id="1" valor="100" vendedor_id="1" dataVenda="2017-02-03" />
+	
+	<venda id="2" valor="1000" vendedor_id="2" dataVenda="2017-02-03" />
+	<venda id="3" valor="2000" vendedor_id="2" dataVenda="2017-02-04" />
+
+</dataset>

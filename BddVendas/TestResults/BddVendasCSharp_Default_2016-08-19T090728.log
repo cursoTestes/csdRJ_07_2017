@@ -1,0 +1,39 @@
+﻿VS filter: testpath:TestAssembly:BddVendasCSharp/Feature:Cadastro+de+Membros+no+CRO/Scenario:Criar+um+novo+membro
+Discovering target: Default
+Discovering tests from assembly: C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll
+Appdomain Disposed
+Test Suite Dump
+#0: BddVendasCSharp/Default - 
+#1: Default - 
+#2: BddVendasCSharp - 
+#6: Cadastro de Membros no CRO - 
+#7: Criar um novo membro - TestAssembly:BddVendasCSharp/Feature:Cadastro+de+Membros+no+CRO/Scenario:Criar+um+novo+membro
+End: Test Suite Dump -- X
+Scheduler: considering #7 for thread #0
+Scheduler: using #7 for thread #0
+Test #7 is scheduled for thread #0
+Thread #0: creating new test thread executor for BddVendasCSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\cfc\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.3.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Test #7/0 is started on thread #0
+B:Dado que eu estou logado
+T:pending: CadastroDeMembrosNoCROSteps.DadoQueEuEstouLogado()
+B:E entrei na página de criar novos membros
+T:skipped because of previous errors
+B:E preenchi o campo nome com 'Felippe' e o campo CPF com '11161276790'
+T:skipped because of previous errors
+B:Quando eu clicar no botão salvar
+T:skipped because of previous errors
+B:Então devo ser levado para a página de emissâo de guia de pagamento
+T:skipped because of previous errors
+B:E deve ser exibido uma mensagem dizendo "O membro Felippe acaba de ser cadastrado com sucesso".
+T:skipped because of previous errors
+T:Pending: One or more step definitions are not implemented yet.
+T:  CadastroDeMembrosNoCROSteps.DadoQueEuEstouLogado()
+Test #7 is finished on thread #0 as Pending within 4,0887221 seconds
+Appdomain Disposed
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 1
+Skipped: 0
+Failed: 0

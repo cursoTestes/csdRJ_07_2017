@@ -1,0 +1,36 @@
+﻿Discovering target: Default
+Discovering tests from assembly: c:\Users\cfc\Documents\Visual Studio 2013\Projects\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll
+Appdomain Disposed
+Test Suite Dump
+#0: BddVendasCSharp/Default - 
+#1: Default - 
+#2: BddVendasCSharp - 
+#3: CadastrarVenda - 
+#4: Successfuly saved - TestAssembly:BddVendasCSharp/Feature:CadastrarVenda/Scenario:Successfuly+saved
+End: Test Suite Dump -- X
+Scheduler: considering #4 for thread #0
+Scheduler: using #4 for thread #0
+Test #4 is scheduled for thread #0
+Thread #0: creating new test thread executor for BddVendasCSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\cfc\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.3.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Test #4/0 is started on thread #0
+B:Given I have entered the sales webpage
+T:done: CadastrarVendaSteps.GivenIHaveEnteredTheSalesWebpage() (6,1s)
+B:And I have entered 10 into the salesman
+T:done: CadastrarVendaSteps.GivenIHaveEnteredIntoTheSalesman("10") (0,1s)
+B:And the price was 10
+T:done: CadastrarVendaSteps.GivenThePriceWas("10") (0,1s)
+B:And the date was 10/12/2015
+T:done: CadastrarVendaSteps.GivenTheDateWas("10/12/2015") (0,2s)
+B:When I press save
+T:done: CadastrarVendaSteps.WhenIPressSave() (0,0s)
+B:Then a success message should appear
+T:done: CadastrarVendaSteps.ThenASuccessMessageShouldAppear() (0,0s)
+Test #4 is finished on thread #0 as Succeeded within 11,0303951 seconds
+Appdomain Disposed
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

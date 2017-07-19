@@ -1,0 +1,119 @@
+﻿VS filter: testpath:TestAssembly:BddVendasCSharp/Feature:Custo+final+por+trabalhador/Scenario:Criar+um+trabalhador+que+recebe+um+salario+minimo
+Discovering target: Default
+Discovering tests from assembly: C:\K21\CSD\GitHub\csdRJ_07_2017\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll
+Appdomain Disposed
+Test Suite Dump
+#0: BddVendasCSharp/Default - 
+#1: Default - 
+#2: BddVendasCSharp - 
+#9: Custo final por trabalhador - 
+#10: Criar um trabalhador que recebe um salario minimo - TestAssembly:BddVendasCSharp/Feature:Custo+final+por+trabalhador/Scenario:Criar+um+trabalhador+que+recebe+um+salario+minimo
+End: Test Suite Dump -- X
+Scheduler: considering #10 for thread #0
+Scheduler: using #10 for thread #0
+Test #10 is scheduled for thread #0
+Thread #0: creating new test thread executor for BddVendasCSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\cfc\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.3.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Test #10/0 is started on thread #0
+B:Dado que eu estou na pagina da calculadora
+T:No matching step definition found for the step. Use the following code to create one:
+T:        [Given(@"que eu estou na pagina da calculadora")]
+T:public void DadoQueEuEstouNaPaginaDaCalculadora()
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+B:E preenchi o campo salario bruto com '937,00'
+T:No matching step definition found for the step. Use the following code to create one:
+T:        [Given(@"preenchi o campo salario bruto com '(.*)'")]
+T:public void DadoPreenchiOCampoSalarioBrutoCom(Decimal p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+B:E preenchi o campo vale transporte com '450,00'
+T:No matching step definition found for the step. Use the following code to create one:
+T:        [Given(@"preenchi o campo vale transporte com '(.*)'")]
+T:public void DadoPreenchiOCampoValeTransporteCom(Decimal p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+B:E preenchi o campo vale refeicao com '350,00'
+T:No matching step definition found for the step. Use the following code to create one:
+T:        [Given(@"preenchi o campo vale refeicao com '(.*)'")]
+T:public void DadoPreenchiOCampoValeRefeicaoCom(Decimal p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+B:E preenchi o campo plano de saude com '200,00'
+T:No matching step definition found for the step. Use the following code to create one:
+T:        [Given(@"preenchi o campo plano de saude com '(.*)'")]
+T:public void DadoPreenchiOCampoPlanoDeSaudeCom(Decimal p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+B:Quando eu clicar no botao calcular
+T:No matching step definition found for the step. Use the following code to create one:
+T:        [When(@"eu clicar no botao calcular")]
+T:public void QuandoEuClicarNoBotaoCalcular()
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+B:Entao deve ser exibido o custo final de '2376,35'
+T:No matching step definition found for the step. Use the following code to create one:
+T:        [Then(@"deve ser exibido o custo final de '(.*)'")]
+T:public void EntaoDeveSerExibidoOCustoFinalDe(Decimal p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:Pending: No matching step definition found for one or more steps.
+T:using System;
+T:using TechTalk.SpecFlow;
+T:namespace MyNamespace
+T:{
+T:    [Binding]
+T:    public class StepDefinitions
+T:    {
+T:        [Given(@"que eu estou na pagina da calculadora")]
+T:public void DadoQueEuEstouNaPaginaDaCalculadora()
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:        [Given(@"preenchi o campo salario bruto com '(.*)'")]
+T:public void DadoPreenchiOCampoSalarioBrutoCom(Decimal p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:        [Given(@"preenchi o campo vale transporte com '(.*)'")]
+T:public void DadoPreenchiOCampoValeTransporteCom(Decimal p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:        [Given(@"preenchi o campo vale refeicao com '(.*)'")]
+T:public void DadoPreenchiOCampoValeRefeicaoCom(Decimal p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:        [Given(@"preenchi o campo plano de saude com '(.*)'")]
+T:public void DadoPreenchiOCampoPlanoDeSaudeCom(Decimal p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:        [When(@"eu clicar no botao calcular")]
+T:public void QuandoEuClicarNoBotaoCalcular()
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:        [Then(@"deve ser exibido o custo final de '(.*)'")]
+T:public void EntaoDeveSerExibidoOCustoFinalDe(Decimal p0)
+T:{
+T:    ScenarioContext.Current.Pending();
+T:}
+T:    }
+T:}
+Test #10 is finished on thread #0 as Pending within 4,3430922 seconds
+Appdomain Disposed
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 1
+Skipped: 0
+Failed: 0

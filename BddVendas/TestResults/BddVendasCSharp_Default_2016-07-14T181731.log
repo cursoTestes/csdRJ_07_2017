@@ -1,0 +1,139 @@
+﻿VS filter: testpath:TestAssembly:BddVendasCSharp/Feature:CadastrarVenda/Scenario:Salesman+field+not+filled | testpath:TestAssembly:BddVendasCSharp/Feature:CadastrarVenda/Scenario:Successfuly+saved
+Discovering target: Default
+Discovering tests from assembly: C:\K21\PrimeiroDia - Preparado para comecar\Net\BddVendas\BddVendasCSharp\bin\Debug\BddVendasCSharp.dll
+Appdomain Disposed
+Test Suite Dump
+#0: BddVendasCSharp/Default - 
+#1: Default - 
+#2: BddVendasCSharp - 
+#3: CadastrarVenda - 
+#4: Successfuly saved - TestAssembly:BddVendasCSharp/Feature:CadastrarVenda/Scenario:Successfuly+saved
+#5: Salesman field not filled - TestAssembly:BddVendasCSharp/Feature:CadastrarVenda/Scenario:Salesman+field+not+filled
+End: Test Suite Dump -- X
+Scheduler: considering #4 for thread #0
+Scheduler: using #4 for thread #0
+Test #4 is scheduled for thread #0
+Thread #0: creating new test thread executor for BddVendasCSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\cfc\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.3.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Test #4/0 is started on thread #0
+B:Given I have entered the sales webpage
+T:done: CadastrarVendaSteps.GivenIHaveEnteredTheSalesWebpage() (2,7s)
+B:And I have entered 10 into the salesman
+T:error: no such element: Unable to locate element: {"method":"id","selector":"vendedor"}
+T:  (Session info: chrome=51.0.2704.103)
+T:  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.3 x86_64)
+B:And the price was 10
+T:skipped because of previous errors
+B:And the date was 10/12/2015
+T:skipped because of previous errors
+B:When I press save
+T:skipped because of previous errors
+B:Then a success message should appear
+T:skipped because of previous errors
+Scheduler: dequeuing a rescheduled item: 4
+Scheduler: considering #4 for thread #0
+Scheduler: using #4 for thread #0
+Test #4 is scheduled for thread #0
+Test #4 is finished on thread #0 as Failed within 6,6126121 seconds
+Test #4/1 is started on thread #0
+B:Given I have entered the sales webpage
+T:done: CadastrarVendaSteps.GivenIHaveEnteredTheSalesWebpage() (4,9s)
+B:And I have entered 10 into the salesman
+T:error: no such element: Unable to locate element: {"method":"id","selector":"vendedor"}
+T:  (Session info: chrome=51.0.2704.103)
+T:  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.3 x86_64)
+B:And the price was 10
+T:skipped because of previous errors
+B:And the date was 10/12/2015
+T:skipped because of previous errors
+B:When I press save
+T:skipped because of previous errors
+B:Then a success message should appear
+T:skipped because of previous errors
+Scheduler: dequeuing a rescheduled item: 4
+Scheduler: considering #4 for thread #0
+Scheduler: using #4 for thread #0
+Test #4 is scheduled for thread #0
+Test #4 is finished on thread #0 as Failed within 8,3664567 seconds
+Test #4/2 is started on thread #0
+B:Given I have entered the sales webpage
+T:done: CadastrarVendaSteps.GivenIHaveEnteredTheSalesWebpage() (2,8s)
+B:And I have entered 10 into the salesman
+T:error: no such element: Unable to locate element: {"method":"id","selector":"vendedor"}
+T:  (Session info: chrome=51.0.2704.103)
+T:  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.3 x86_64)
+B:And the price was 10
+T:skipped because of previous errors
+B:And the date was 10/12/2015
+T:skipped because of previous errors
+B:When I press save
+T:skipped because of previous errors
+B:Then a success message should appear
+T:skipped because of previous errors
+Scheduler: considering #5 for thread #0
+Scheduler: using #5 for thread #0
+Test #5 is scheduled for thread #0
+Test #4 is finished on thread #0 as Failed within 6,1844137 seconds
+Test #5/0 is started on thread #0
+B:Given I have entered the sales webpage
+T:done: CadastrarVendaSteps.GivenIHaveEnteredTheSalesWebpage() (2,8s)
+B:And I have entered  '' into the salesman
+T:error: no such element: Unable to locate element: {"method":"id","selector":"vendedor"}
+T:  (Session info: chrome=51.0.2704.103)
+T:  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.3 x86_64)
+B:And the price was 10
+T:skipped because of previous errors
+B:And the date was 10/12/2015
+T:skipped because of previous errors
+B:When I press save
+T:skipped because of previous errors
+B:Then an error message should appear
+T:skipped because of previous errors
+Scheduler: dequeuing a rescheduled item: 5
+Scheduler: considering #5 for thread #0
+Scheduler: using #5 for thread #0
+Test #5 is scheduled for thread #0
+Test #5 is finished on thread #0 as Failed within 6,1824566 seconds
+Test #5/1 is started on thread #0
+B:Given I have entered the sales webpage
+T:done: CadastrarVendaSteps.GivenIHaveEnteredTheSalesWebpage() (2,8s)
+B:And I have entered  '' into the salesman
+T:error: no such element: Unable to locate element: {"method":"id","selector":"vendedor"}
+T:  (Session info: chrome=51.0.2704.103)
+T:  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.3 x86_64)
+B:And the price was 10
+T:skipped because of previous errors
+B:And the date was 10/12/2015
+T:skipped because of previous errors
+B:When I press save
+T:skipped because of previous errors
+B:Then an error message should appear
+T:skipped because of previous errors
+Scheduler: dequeuing a rescheduled item: 5
+Scheduler: considering #5 for thread #0
+Scheduler: using #5 for thread #0
+Test #5 is scheduled for thread #0
+Test #5 is finished on thread #0 as Failed within 6,2039656 seconds
+Test #5/2 is started on thread #0
+B:Given I have entered the sales webpage
+T:done: CadastrarVendaSteps.GivenIHaveEnteredTheSalesWebpage() (2,8s)
+B:And I have entered  '' into the salesman
+T:error: no such element: Unable to locate element: {"method":"id","selector":"vendedor"}
+T:  (Session info: chrome=51.0.2704.103)
+T:  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.3 x86_64)
+B:And the price was 10
+T:skipped because of previous errors
+B:And the date was 10/12/2015
+T:skipped because of previous errors
+B:When I press save
+T:skipped because of previous errors
+B:Then an error message should appear
+T:skipped because of previous errors
+Test #5 is finished on thread #0 as Failed within 6,1511759 seconds
+Appdomain Disposed
+Total: 2 (test executions: 6)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 2
